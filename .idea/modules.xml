@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/annotation-processing.iml" filepath="$PROJECT_DIR$/annotation-processing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/binder-annotation/binder-annotation.iml" filepath="$PROJECT_DIR$/binder-annotation/binder-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binder-compiler/binder-compiler.iml" filepath="$PROJECT_DIR$/binder-compiler/binder-compiler.iml" />
     </modules>
   </component>
 </project>
