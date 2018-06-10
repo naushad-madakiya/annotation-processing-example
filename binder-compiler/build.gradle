@@ -3,6 +3,7 @@ apply plugin: 'java-library'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     compile project(path: ':binder-annotation')
+    implementation 'com.squareup:javapoet:1.11.1'
 }
 
 sourceCompatibility = JavaVersion.VERSION_1_8
